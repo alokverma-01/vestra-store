@@ -4,6 +4,8 @@ A fully responsive fashion e-commerce site built around **real filmed footage** 
 
 **Stack:** Vite · React 19 · TypeScript · Tailwind CSS v4 · Motion (motion.dev) · Lenis smooth scroll · React Router · Lucide + Simple Icons
 
+**Live:** [vestra-store-psi.vercel.app](https://vestra-store-psi.vercel.app) (Vercel) · [alokverma-01.github.io/vestra-store](https://alokverma-01.github.io/vestra-store/) (GitHub Pages) — both redeploy automatically on every push to `main`.
+
 ---
 
 ## Quick start
